@@ -1,2 +1,2 @@
-# Consumer
-Java Kafka Consumer for Producer
+# consumer
+Kafka consumer server side 
